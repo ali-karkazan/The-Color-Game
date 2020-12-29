@@ -41,6 +41,7 @@ h1 {
 }
 
 #stripe {
+    display: flex;
     background:white;
     height: 30px;
     text-align: center;
